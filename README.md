@@ -105,6 +105,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For questions, feedback, or issues, please contact:
 - Abdul Rehman Ikram [hanzo7n@gmail.com](mailto:hanzo7n@gmail.com)
-```
-
----
