@@ -1,6 +1,3 @@
-Here is the entire **README.md** file for your **ProteinScape** app:
-
-```markdown
 # ProteinScape: Protein Structure Prediction Application
 
 **ProteinScape** is a web-based application designed to predict and visualize the 3D structure of proteins from amino acid sequences. The app utilizes the **ESMFold API** to provide accurate structural predictions and includes an interactive interface for researchers, educators, and students to explore protein structures and their features.
